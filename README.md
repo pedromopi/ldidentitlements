@@ -1,6 +1,8 @@
 
 ## Example of Use
 
+# Modify with ldid
+
 1. Place the `entitlements.xml` file in the following directory: `/var/mobile/Documents/`
 
 2. To modify `ls` binary, run the following command:
@@ -14,3 +16,6 @@ ldid -S/var/mobile/Documents/entitlements.xml /var/jb/usr/bin/ls
 ```shell
 ldid -S/var/mobile/Documents/entitlements.xml /var/jb/usr/bin/bash
 ```
+# Download modified
+
+Alternatively you can download in releases some binaries which I modified.
