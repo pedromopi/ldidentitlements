@@ -1,3 +1,6 @@
+# Description
+
+In a rootless jailbreak environment, you might encounter errors while attempting to access app container folders, even when running SSH as a root user. This issue arises due to the binaries lacking the necessary entitlements.
 
 # Usage
 
