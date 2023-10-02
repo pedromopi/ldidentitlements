@@ -20,3 +20,12 @@ ldid -S/var/mobile/Documents/entitlements.xml /var/jb/usr/bin/bash
 
 Alternatively you can download in releases some binaries which I modified and place in `/var/mobile/Documents/`.
 
+
+---
+
+### References
+
+- [Broken Permissions in iOS](https://www.reddit.com/r/jailbreak/comments/13rxm9t/question_broken_permissions_in/)
+- [Reddit Discussion](https://www.reddit.com/r/jailbreak/comments/14wgy3k/comment/jrlyvir/)
+- [Ldid on iPhoneDev Wiki](https://iphonedev.wiki/Ldid)
+
