@@ -1,7 +1,7 @@
 
-## Example of Use
+# Example of Use
 
-# Modify with ldid
+## Modify with ldid
 
 1. Place the `entitlements.xml` file in the following directory: `/var/mobile/Documents/`
 
@@ -16,6 +16,7 @@ ldid -S/var/mobile/Documents/entitlements.xml /var/jb/usr/bin/ls
 ```shell
 ldid -S/var/mobile/Documents/entitlements.xml /var/jb/usr/bin/bash
 ```
-# Download modified
+## Download modified
 
-Alternatively you can download in releases some binaries which I modified.
+Alternatively you can download in releases some binaries which I modified and place in `/var/mobile/Documents/`.
+
