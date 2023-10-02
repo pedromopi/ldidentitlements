@@ -21,7 +21,7 @@ ldid -S/var/mobile/Documents/entitlements.xml /var/jb/usr/bin/bash
 ```
 ## Download modified
 
-Alternatively, you can download pre-modified binaries from the 'Releases' section and then place them in `\var/mobile/Documents/`.
+Alternatively, you can download pre-modified binaries from the 'Releases' section and then place them in `/var/mobile/Documents/`.
 
 ## References
 
