@@ -8,7 +8,9 @@
 ```shell
 ldid -S/var/mobile/Documents/entitlements.xml /var/jb/usr/bin/ls
 ```
+
 3. To modify `bash` binary, run this command:
+   
 ```shell
 ldid -S/var/mobile/Documents/entitlements.xml /var/jb/usr/bin/bash
 ```
