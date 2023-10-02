@@ -3,7 +3,7 @@
 
 ## Modify with ldid
 
-1. For exemple, you can the `entitlements.xml` file in the following directory: `/var/mobile/Documents/`
+1. For exemple, you can place the `entitlements.xml` file in the following directory: `/var/mobile/Documents/`
 
 2. To modify `ls` binary, run the following command:
 
