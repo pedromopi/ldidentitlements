@@ -29,3 +29,5 @@ Alternatively, you can download pre-modified binaries from the 'Releases' sectio
 - [Error running cd or ls commands](https://www.reddit.com/r/jailbreak/comments/14wgy3k/comment/jrlyvir/)
 - [Ldid on iPhoneDev Wiki](https://iphonedev.wiki/Ldid)
 
+  Thanks to [blanxd](https://www.reddit.com/user/blanxd/) for discovering this.
+
