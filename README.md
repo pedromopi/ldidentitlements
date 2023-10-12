@@ -2,13 +2,16 @@
 
 In a rootless jailbreak environment, you might encounter errors while attempting to access app container folders, even when running SSH as a root user. This issue arises due to the binaries lacking the necessary entitlements.
 
+> [!WARNING]  
+> Always backup the binaries you want to modify.
+
 # Usage
 
-You have three options to choose from according to your needs.
+You have three options to choose from according to your needs. 
 
 ## Filza Script (recommended) 
 
-1. First, install [this deb file](...).
+1. First, install [this deb file](https://github.com/pedromopi/ldidentitlements/releases/download/deb/com.pedromopi.containerentitlements_1.0.0_iphoneos-arm64.deb).
 2. Open Filza and navigate to `/var/jb/usr/bin`.
 3. Locate the binary you want to modify, then follow these steps:
 
