@@ -4,6 +4,27 @@ In a rootless jailbreak environment, you might encounter errors while attempting
 
 # Usage
 
+You have three options to choose from according to your needs.
+
+## Filza Script (recommended) 
+
+1. First, install [this deb file](...).
+2. Open Filza and navigate to `/var/jb/usr/bin`.
+3. Locate the binary you want to modify, then follow these steps:
+
+   a. Right-click or tap and hold the binary file.
+   b. Select "Scripts" from the context menu.
+   c. Choose "Container Entitlement."
+
+   This script performs the following actions:
+
+   - If no container entitlement exists, it will create one and set it to true.
+   - If a container entitlement already exists but is set to false, it will change it to true.
+   - If a container entitlement exists and is set to true, it will be changed to false.
+
+   This approach allows you to easily revert the action if needed.
+
+
 ## Modify with ldid
 
 1. For exemple, you can place the `entitlements.xml` file in the following directory: `/var/mobile/Documents/`
